@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "Settings1": "Value from AppSettings"
+  },
+  "ConnectionStrings": {
+    "CRM_CONNECTION_STRING": "AuthType=Office365;Username=Dynamics.Dev@example.com; Password=password;Url=https://crm.crm6.dynamics.com"
+   
+  }
+}
